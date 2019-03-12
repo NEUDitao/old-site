@@ -1,27 +1,25 @@
-title: Your awesome title
-subtitle: ...and more title
-author: Blog Author
-avatar_url: /assets/img/unknown-avatar.png  # Should be 160x160px.
+title: Cheese's Island
+subtitle: A collection of thoughts, ramblings, and non-important important things (like documentation I guess?)
+author: Edward Li
+avatar_url: https://avatars0.githubusercontent.com/u/33675688?s=460&v=4
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-repository: haacked/haackbar
+  I don't really quite know where to go yet with this
+repository: NEUDitao/NEUDitao.github.io
 
 # contact
 contact:
-  email: your-email@domain.com  # Comment out this line if you don't want to expose your email.
+  email: li.edwa@husky.neu.edu  # Comment out this line if you don't want to expose your email.
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# twitter_username: jekyllrb
+#github_username:  jekyll
+#rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: eddy-li
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
