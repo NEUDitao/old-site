@@ -3,11 +3,12 @@ Hello world! This is the first post on the refresh of my blog, so let's see
 if it actually works well this time. Anyways, on to the main point of this post.
 
 
-![Big bowl of ramen](https://www.kendallsq.org/wp-content/uploads/2018/06/3d04970b-818e-4134-acd2-0ae2a1217410.jpg)
-
-[Yume Wo Katare](https://www.yumewokatare.com/ "yume site"), is a place to go
+[Yume Wo Katare](https://www.yumewokatare.com/ "yume site") is a place to go
 when you want to chase your dreams. It also happens to be a ramen shop on the
 side.
+
+![Big bowl of ramen](https://www.kendallsq.org/wp-content/uploads/2018/06/3d04970b-818e-4134-acd2-0ae2a1217410.jpg)
+
 
 Wait what? Yeah that's right. Even though the fatty, rich garlic seems to
 be the main draw for most patrons, the shop doesn't think so. "One bowl per
