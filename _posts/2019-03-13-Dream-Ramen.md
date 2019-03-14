@@ -30,4 +30,10 @@ graded on how much ramen you eat. If you finish the bowl, you get a
 
 Fail to make a dent? next time.
 
-
+Trust me though, if you ever have the chance to go, you definitely should. The
+small 18 seat shop usually has a line spilling out of it whenever it's open,
+but that's just another testament to its popularity and timelessness. It also
+happens to have a [sister Udon shop](https://www.facebook.com/yumegaarukara/)
+next door, which is ALSO delicious. I take all my friends who visit Boston every
+time... in fact, it's one of the dreams I shared! And so far, it's been a
+**PERFECT**.
