@@ -8,12 +8,12 @@ repository: NEUDitao/NEUDitao.github.io
 
 # contact
 contact:
-  email: li.edwa@husky.neu.edu  # Comment out this line if you don't want to expose your email.
+  email: li.edwa@husky.neu.edu 
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links
 # twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  NEUDitao
 #rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
