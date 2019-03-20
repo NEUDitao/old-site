@@ -43,7 +43,7 @@ show_excerpts: true  # set to true to show excerpts on the homepage, otherwise f
 comments:
   enabled: true
   show_count: true
-  receiver: https://postcomment.azurewebsites.net/  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
+  receiver: https://postcomment.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
 #  disqus_shortname: YOUR_DISQUS_SHORTNAME
 
 emptyArray: [] # Leave this here.
