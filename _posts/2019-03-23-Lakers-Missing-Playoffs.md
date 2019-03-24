@@ -23,7 +23,7 @@ got, arguably, one of the best players of all time to join their team in LA.
 This *had* to be the first season since the fateful Steve Nash/Dwight Howard
 experiment that the Lakers made the playoffs, right?
 
-[I don't think they made it](https://usatftw.files.wordpress.com/2019/03/ap-lakers-knicks-basketball-2.jpg?w=2000&h=2330)
+![I don't think they made it](https://usatftw.files.wordpress.com/2019/03/ap-lakers-knicks-basketball-2.jpg?w=2000&h=2330)
 
 So what happened? Well, let's take a walk down 2018-2019 memory lane.
 
@@ -59,7 +59,7 @@ wary of the Lakers. They saw this team and said "Ok, Lebron wanted to add on
 people who he's traditionally had trouble playing against before... let's see
 how this season pans out. 
 
-[hmm...](https://usatthebiglead.files.wordpress.com/2018/10/rajon-rondo-chris-paul.jpg?w=1000&h=600&crop=1?w=1000&crop=0)
+![hmm...](https://usatthebiglead.files.wordpress.com/2018/10/rajon-rondo-chris-paul.jpg?w=1000&h=600&crop=1?w=1000&crop=0)
 
 
 ### November 6, 2018
@@ -89,7 +89,7 @@ rivals the Clippers... things are going to be alright, right?
 
 ### February -- The Anthony Davis Saga
 
-["Season's over, isn't it?"](https://media.nbcbayarea.com/images/652*367/lebronsadus.jpg)
+!["Season's over, isn't it?"](https://media.nbcbayarea.com/images/652*367/lebronsadus.jpg)
 
 Do you know what's the best way to ensure your team no longer has any
 chemistry? When it leaks that you're trying to trade basically your entire
@@ -116,7 +116,7 @@ playoffs.
 ... Needless to say that was probably the final nail in the coffin for
 the Lakers.
 
-[Even Rondo doesn't want to sit with his team...](https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2019/03/07/rajon-rondo-sits-away-teammates.jpg?itok=uQbWaJoz)
+![Even Rondo doesn't want to sit with his team...](https://cdn-s3.si.com/s3fs-public/styles/marquee_large_2x/public/2019/03/07/rajon-rondo-sits-away-teammates.jpg?itok=uQbWaJoz)
 
 After the embarrassing loss to Phoenix, their hometown rivals, and an
 Anothony Davis-less New Orleans Pelicans, the Lakers decided to call the
