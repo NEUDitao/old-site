@@ -1,5 +1,5 @@
 title: Cheese's Island
-subtitle: A collection of thoughts, ramblings, and non-important important things (like documentation I guess?)
+subtitle: A collection of thoughts, ramblings, and non-important important things
 author: Edward Li
 avatar_url: https://avatars0.githubusercontent.com/u/33675688?s=460&v=4
 description: > # this means to ignore newlines until "twitter_username:"
@@ -8,12 +8,12 @@ repository: NEUDitao/NEUDitao.github.io
 
 # contact
 contact:
-  email: li.edwa@husky.neu.edu  # Comment out this line if you don't want to expose your email.
+  email: li.edwa@husky.neu.edu 
 #  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
 # social links
 # twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  NEUDitao
 #rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -41,9 +41,9 @@ show_excerpts: true  # set to true to show excerpts on the homepage, otherwise f
 # Comments
 # To enable comments, set the `enabled` field to true and supply either a Disqus short name or a Jekyll comments receiver
 comments:
-  enabled: false
-  show_count: false
-#  receiver: https://.../  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
+  enabled: true
+  show_count: true
+  receiver: https://postcomment.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
 #  disqus_shortname: YOUR_DISQUS_SHORTNAME
 
 emptyArray: [] # Leave this here.
@@ -57,7 +57,7 @@ haackbar:
 # Jekyll Settings
 #
 permalink: /archive/:year/:month/:day/:title/
-paginate: 2 # number of posts per page
+paginate: 10 # number of posts per page
 page_group_size: 5 # number of pages to group by in the pagination.
 paginate_path: "/archive/page/:num"
 
