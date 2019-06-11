@@ -1,15 +1,18 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {% include head.html %}
 
   <body>
+    <header class="header">{% include_cached header.html %}</header>
 
-    {% include sidebar.html %}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
 
-    <div class="content container">
-      {{ content }}
-    </div>
-
+    {% include_cached footer.html %}
   </body>
+
 </html>

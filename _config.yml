@@ -1,26 +1,100 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+title: Cheese's Island
+subtitle: A collection of thoughts, ramblings, and non-important important things
+author: Edward Li
+avatar_url: https://avatars0.githubusercontent.com/u/33675688?s=460&v=4
+description: > # this means to ignore newlines until "twitter_username:"
+  I don't really quite know where to go yet with this
+repository: NEUDitao/NEUDitao.github.io
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# contact
+contact:
+  email: li.edwa@husky.neu.edu 
+#  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+# social links
+# twitter_username: jekyllrb
+github_username:  NEUDitao
+#rss: rss
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: eddy-li
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+# 
+# Subscribe Feed
+# 
+# By default, your site generates a subscription feed (RSS/Atom) at /feed.xml
+# Uncomment the next two lines to change the path.
+# feed:
+#   path: /atom.xml
 
-paginate:         5
+# If you use a feed publisher such as Feedburner, uncomment the next line
+# subscribe_rss: https://your-feedburner-url/
 
-# Custom vars
-version:          2.1.0
+# Homepage
+show_excerpts: true  # set to true to show excerpts on the homepage, otherwise full posts are shown
 
-github:
-  repo:           https://github.com/poole/hyde
+# Comments
+# To enable comments, set the `enabled` field to true and supply either a Disqus short name or a Jekyll comments receiver
+comments:
+  enabled: true
+  show_count: true
+  receiver: https://postcomment.azurewebsites.net/api/PostComment  # See https://haacked.com/archive/2018/06/24/comments-for-jekyll-blogs/ for more information.
+#  disqus_shortname: YOUR_DISQUS_SHORTNAME
+
+emptyArray: [] # Leave this here.
+
+# haackbar date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+haackbar:
+  date_format: "%b %-d, %Y"
+
+#
+# Jekyll Settings
+#
+permalink: /archive/:year/:month/:day/:title/
+paginate: 10 # number of posts per page
+page_group_size: 5 # number of pages to group by in the pagination.
+paginate_path: "/archive/page/:num"
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+  -
+    scope:
+      path: "assets/pages"
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+# Build settings
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-include-cache
