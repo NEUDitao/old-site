@@ -13,20 +13,21 @@ include_nav: true
 
 ## Job Experience
 
-**Akamai Technologies**
-*Web Support Co-Op*
+#### Akamai Technologies
+*Web Support Co-Op*</br>
 ```Assisted members of the premium support team in cases using Unix
 tools and environments, while also developing internal tools for Technical
 Support Engineers. Also helped deal directly in customer-facing cases.```
 
-**Northeastern University**
-*Fundamentals of Computer Science 1 Tutor/Grader*
+#### Northeastern University
+*Fundamentals of Computer Science 1 Tutor/Grader*</br>
 ```Graded ~30 assignments a week, while assisting ~500 students on
 Northeastern's Fundamentals of Computer Science 1 class.```
 
 
 ## Projects
 
+#### SearchNEU
 *[SearchNEU](https://searchneu.com/)*, a website dedicated to helping
 Northeastern Students search for classes as fast as possible. Built on 
 React/Node
