@@ -8,19 +8,19 @@ include_nav: true
 
 ## Education
 
-**Northeastern University**
+#### Northeastern University
 *Pursuing Bachelor of Science in Computer Science, 2022*
 
 ## Job Experience
 
 #### Akamai Technologies
-*Web Support Co-Op*</br>
+*Web Support Co-Op*  
 ```Assisted members of the premium support team in cases using Unix
 tools and environments, while also developing internal tools for Technical
 Support Engineers. Also helped deal directly in customer-facing cases.```
 
 #### Northeastern University
-*Fundamentals of Computer Science 1 Tutor/Grader*</br>
+*Fundamentals of Computer Science 1 Tutor/Grader*  
 ```Graded ~30 assignments a week, while assisting ~500 students on
 Northeastern's Fundamentals of Computer Science 1 class.```
 
