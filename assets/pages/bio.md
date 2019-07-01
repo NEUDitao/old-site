@@ -15,14 +15,14 @@ include_nav: true
 
 #### Akamai Technologies
 *Web Support Co-Op*  
-```Assisted members of the premium support team in cases using Unix
+Assisted members of the premium support team in cases using Unix
 tools and environments, while also developing internal tools for Technical
-Support Engineers. Also helped deal directly in customer-facing cases.```
-
+Support Engineers. Helped deal directly in customer-facing cases.
+<br/>
 #### Northeastern University
 *Fundamentals of Computer Science 1 Tutor/Grader*  
-```Graded ~30 assignments a week, while assisting ~500 students on
-Northeastern's Fundamentals of Computer Science 1 class.```
+Graded ~30 assignments a week, while assisting ~500 students on
+Northeastern's Fundamentals of Computer Science 1 class.
 
 
 ## Projects
